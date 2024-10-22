@@ -1,2 +1,2 @@
 # Curso-Python
-Códigos implementados durante o aprendizado da linguagem python 3 .
+Codes implemented while learning the python language
